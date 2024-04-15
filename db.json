@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "sr": "1",
+      "cname": "Python",
+      "tutor": "Akshay sir",
+      "id": 1
+    },
+    {
+      "sr": "2",
+      "cname": "Java",
+      "tutor": "Kunal Sir",
+      "id": 2
+    }
+  ]
+}
